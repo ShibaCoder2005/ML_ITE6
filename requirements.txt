@@ -1,0 +1,23 @@
+# Core ML / data
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+scipy>=1.11
+
+# NLP helpers
+nltk>=3.8
+
+# Persistence
+joblib>=1.3
+
+# Demo app
+streamlit>=1.28
+
+# Notebooks & visualization
+jupyter>=1.0
+matplotlib>=3.7
+seaborn>=0.13
+
+# Utilities
+tqdm>=4.66
+pyyaml>=6.0

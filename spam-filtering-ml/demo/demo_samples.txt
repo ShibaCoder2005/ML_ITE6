@@ -1,0 +1,9 @@
+# Mẫu tin nhắn / email điển hình phục vụ demo trực tiếp
+# Dòng bắt đầu bằng # được bỏ qua
+
+Congratulations! You have WON a $1000 gift card. Click http://bit.ly/win-now to claim NOW!!!
+Hey, are we still meeting for lunch tomorrow at 12?
+URGENT: Your bank account has been locked. Verify your identity immediately at secure-login-update.com
+Thanks for the notes from yesterday's lecture. See you in class.
+FREE entry to claim prize!!! Text WIN to 80086 now. Std rates apply. Stop? Reply STOP
+Can you send me the PDF of the assignment when you get a chance?
